@@ -1,3 +1,5 @@
+Source is available for anyone to freely use, modify or update.  
+I grant the SMM team permission to update this mod in the event that I become inactive.
 # BladeRunnersUltimate
 <img src="https://i.imgur.com/GJGkN70.png">
 <h4> Adds the Blade Runners Mk.U </br>
